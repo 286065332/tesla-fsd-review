@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" color="currentColor">
+<g transform="translate(-589.5 -779.5)">
+<g xmlns="http://www.w3.org/2000/svg" id="Style=Linear_38">
+<g id="Artwork_71">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M611 781C611.552 781 612 781.448 612 782V798L611.995 798.103C611.947 798.573 611.573 798.947 611.103 798.995L611 799H606V801C606 801.552 605.552 802 605 802H592C591.448 802 591 801.552 591 801V786C591 785.448 591.448 785 592 785H597V782C597 781.448 597.448 781 598 781H611ZM599 785H605C605.552 785 606 785.448 606 786V797H610V783H599V785ZM593 800H604V787H593V800Z" fill="currentColor" />
+<path d="M602 792.5H595V790H602V792.5Z" fill="currentColor" />
+<path d="M602 797.5H595V795H602V797.5Z" fill="currentColor" />
+</g>
+</g>
+</g>
+</svg>

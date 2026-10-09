@@ -1,0 +1,9 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M7.5 19.8889L5.25 22M16.5 19.8889L18.75 22M5.25 3H18.75C19.3467 3 19.919 3.22242 20.341 3.61833C20.7629 4.01424 21 4.55121 21 5.11111V16.7222C21 17.5621 20.6444 18.3675 20.0115 18.9614C19.3786 19.5553 18.5201 19.8889 17.625 19.8889H6.375C5.47989 19.8889 4.62145 19.5553 3.98851 18.9614C3.35558 18.3675 3 17.5621 3 16.7222V5.11111C3 4.55121 3.23705 4.01424 3.65901 3.61833C4.08097 3.22242 4.65326 3 5.25 3Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="7.5" cy="15.5" r="1.5" fill="currentColor"/>
+<circle cx="16.5" cy="15.5" r="1.5" fill="currentColor"/>
+<mask id="path-4-inside-1_4482_18" fill="white">
+<rect x="5" y="5" width="14" height="8" rx="1"/>
+</mask>
+<rect x="5" y="5" width="14" height="8" rx="1" stroke="currentColor" stroke-width="3" mask="url(#path-4-inside-1_4482_18)"/>
+</svg>
